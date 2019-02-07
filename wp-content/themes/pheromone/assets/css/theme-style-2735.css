@@ -66,7 +66,7 @@ body {
   border-radius: 50%;
   display: inline-block;
   vertical-align: middle;
-  background: #d3bd98;
+  background: #BE202F;
   animation: 1.15s infinite ease-in-out;
   -webkit-animation: 1.15s infinite ease-in-out;
   -moz-animation: 1.15s infinite ease-in-out;
@@ -562,7 +562,7 @@ ul, ol {margin-bottom: 1.5em;}
     border-bottom: #555;
     margin: 0; }
 .share-class a.active-menu {
-    color:#d3bd98 !important;
+    color:#BE202F !important;
 }
 .nav .badge {
     background-color: #789;
@@ -701,9 +701,9 @@ a.btn-nav .btn {
     padding-left: 55px; }
 .navbar-nav.sm-collapsible ul ul ul ul .dropdown-menu > li > a, .navbar-nav.sm-collapsible ul ul ul ul .dropdown-menu .dropdown-header {
     padding-left: 65px; }
-.navbar-nav ul.sm-nowrap .current-menu-ancestor > a {color: #d3bd98;}
-.navbar-nav ul.sm-nowrap .current-menu-ancestor li.current-menu-item a {color: #d3bd98}
-.navbar-nav ul.sm-nowrap li.current-menu-item > a {color: #d3bd98;}
+.navbar-nav ul.sm-nowrap .current-menu-ancestor > a {color: #BE202F;}
+.navbar-nav ul.sm-nowrap .current-menu-ancestor li.current-menu-item a {color: #BE202F}
+.navbar-nav ul.sm-nowrap li.current-menu-item > a {color: #BE202F;}
 
     .navbar-nav ul.sm-nowrap > li > a.has-submenu:after {
         font-family: FontAwesome;
@@ -3229,7 +3229,7 @@ padding-top: 25px;
   font-weight: 400;
   text-transform: uppercase;
 }
-.burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu .current-menu-parent > a, .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu .current-page-parent > a, .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu .current_page_parent > a {color:#d3bd98;}
+.burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu .current-menu-parent > a, .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu .current-page-parent > a, .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu .current_page_parent > a {color:#BE202F;}
 
 
 
@@ -3253,7 +3253,7 @@ padding-top: 25px;
   font-size: 12px;
 }
 .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu li.menu-item-has-children > a.sub-active {
-  color: #d3bd98;
+  color: #BE202F;
   font-weight: 400;
 }
 .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu li.menu-item-has-children > a.sub-active::after {
@@ -3261,7 +3261,7 @@ padding-top: 25px;
 }
 .burger_pheromone_menu_overlay_normal li.current-menu-item > a,
 .burger_pheromone_menu_overlay_normal li.current-page-item > a {
-  color: #d3bd98;
+  color: #BE202F;
 }
 .burger_pheromone_menu_overlay_normal .burger_pheromone_main_menu {
     height: 100%;
@@ -3503,7 +3503,7 @@ body.error404 form.searchform input[type="submit"] {
 
 .menu-transparent .navbar.top-nav-collapse {background: #fff;border-bottom:1px solid #eee;padding: 0px 30px;}
 .menu-transparent .navbar.top-nav-collapse .nav > li > a {color:#333;}
-.menu-transparent .navbar.top-nav-collapse .nav > li > a.active-menu {color: #d3bd98 !important;}
+.menu-transparent .navbar.top-nav-collapse .nav > li > a.active-menu {color: #BE202F !important;}
 .menu-transparent .navbar.top-nav-collapse .logo a {color:#333;}
 .menu-transparent .navbar.top-nav-collapse .search-icon-header a i {color:#333;-webkit-transition: all .8s ease;-moz-transition: all .8s ease;transition: all .8s ease;}
 .menu-transparent .navbar.top-nav-collapse .pheromone_head_cart i {color:#333;-webkit-transition: all .8s ease;-moz-transition: all .8s ease;transition: all .8s ease;}
@@ -3527,7 +3527,7 @@ body.error404 form.searchform input[type="submit"] {
   transition: all 0.55s ease;
   z-index: 9999;
   border-radius: 50%;
-  background-color: #d3bd98;
+  background-color: #BE202F;
 }
 .scroll-top:hover{
   background: #18191B;

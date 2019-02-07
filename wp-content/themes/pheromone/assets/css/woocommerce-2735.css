@@ -166,20 +166,20 @@
     margin: 0 0 60px!important;
     background-color: #F7F7F7 !important;
     color: #555 !important;
-    border-top: 3px solid #d3bd98 !important;
+    border-top: 3px solid #BE202F !important;
 }
 .woocommerce-message {
-    border-top-color: #d3bd98 !important;
+    border-top-color: #BE202F !important;
 }
 .woocommerce-message:before {
-    color: #d3bd98 !important;
+    color: #BE202F !important;
 }
 .woocommerce #respond input#submit.added::after, .woocommerce a.button.added::after, .woocommerce button.button.added::after, .woocommerce input.button.added::after {color: #FF3B30 !important;}
 .woocommerce a.button.loading::after { top:1px !important; right:-20px !important}
 .widget_shopping_cart_content .woocommerce-Price-amount {float: right;font-weight: 600;}
 .pheromone_head_cart {position: relative;}
 .pheromone_cart_icon {
-    background-color: #d3bd98;
+    background-color: #BE202F;
     padding: 4px 6px;
     font-size: 11px;
     position: absolute;
@@ -514,10 +514,10 @@ p.buttons {margin-bottom: 0px !important}
     border: 2px solid #18191B !important;
 }
 .woocommerce-info {
-    border-top-color: #d3bd98 !important;
+    border-top-color: #BE202F !important;
 }
 .woocommerce-info:before {
-    color: #d3bd98 !important;
+    color: #BE202F !important;
 }
 .woocommerce-info:before,.woocommerce-error:before,.woocommerce-message:before {
     font-family: FontAwesome !important;
@@ -530,7 +530,7 @@ p.buttons {margin-bottom: 0px !important}
 }
 .woocommerce-error:before {
     content: "\f00d"  !important;
-    color:#d3bd98 !important;
+    color:#BE202F !important;
 }
 .woocommerce-message:before {
     content: "\f00c"  !important;
@@ -539,7 +539,7 @@ p.buttons {margin-bottom: 0px !important}
 }
 
 .woocommerce-error {
-    border-top-color: #d3bd98 !important;
+    border-top-color: #BE202F !important;
 }
 
 
